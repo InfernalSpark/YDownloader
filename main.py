@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout, QHBoxLayout, QLineEdit, QWidget, QGridLayout, QPushButton, QCheckBox
 import os
